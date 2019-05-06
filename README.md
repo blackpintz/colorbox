@@ -1,1 +1,1 @@
-Each box changes color when clicked on!
+Each box changes color on click!
